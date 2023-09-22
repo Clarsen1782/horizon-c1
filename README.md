@@ -17,20 +17,21 @@ Search Engine Optimization, Online Reputation Management, and Social Media Marke
 ## Usage 
 
 This website is set up to be easy to use. Simple pick the topic you are most interested in from the top right corner:
-‘’’md
+```md
 ![alt text](assets/images/Screenshot headers.png)
-‘’’
+```
 
 And it will take you to that section without having to scroll down:
-‘’’md
+```md
 ![alt text](assets/images/Screenshot selected info.png)
-‘’’
+```
 
 For added convenience, you can also view the entire web page by using the scroll bars with your mouse or touchpad.
 
 ## Credits
 
 https://www.w3schools.com/html/default.asp 
+
 https://www.w3schools.com/css/default.asp
 
 
